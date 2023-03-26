@@ -1,9 +1,11 @@
 # JetBrains Mono in Brackets
-A simple extension that changes the [Brackets](http://brackets.io/) UI fonts to JetBrains Mono.
+Change the Brackets UI fonts to Jetbrains Mono and LXGW WenKai 字体 - 修复中文显示
 
 ## Installation
-This plugin requires that the fonts are installed locally on your computer. You can download JetBrains Mono here:
-* https://fonts.google.com/specimen/JetBrains+Mono/about
+This plugin requires that the fonts are installed locally on your computer:
+* https://fonts.google.com/download?family=JetBrains%20Mono
+
+* https://github.com/lxgw/LxgwWenKai-Screen/releases/download/v1.250.2/LXGWWenKaiGBScreenR.ttf
 
 To install in Brackets, simply open the Brackets Extension Manager and search for “JetBrains”.
 

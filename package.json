@@ -1,16 +1,19 @@
 {
   "name": "jetbrains-mono-in-brackets",
-  "title": "jetbrains-mono in Brackets",
-  "description": "A simple extension that changes the Brackets UI fonts to jetbrains-mono.",
+  "title": "Jetbrains Mono and LXGW WenKai 字体 - 修复中文显示",
+  "description": "Change the Brackets UI fonts to Jetbrains Mono and LXGW WenKai 字体 - 修复中文显示.",
   "homepage": "https://github.com/xxnuo/jetbrains-mono-in-brackets",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "author": "xxnuo",
-  "contributors": ["xxnuo (https://github.com/xxnuo)"],
+  "contributors": [
+    "xxnuo (https://github.com/xxnuo)"
+  ],
   "license": "MIT",
   "engines": {
     "brackets": ">=0.42.0"
   },
   "keywords": [
+    "Chinese",
     "JetBrains Mono",
     "JetBrains",
     "Font",
@@ -20,6 +23,7 @@
     "Mono",
     "LXGW WenKai GB Screen R",
     "LXGW",
-    "WenKai"
+    "WenKai",
+    "中文"
   ]
 }
